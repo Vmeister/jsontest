@@ -1,0 +1,44 @@
+[
+  {
+    "startAt": 1465366200000,
+    "endAt": 1465368900000,
+    "noShow": true,
+    "enrolment": {
+      "exam": {
+        "name": "Nuorten kielenkäyttö",
+        "examOwners": [
+          {
+            "email": "sannaope@oppilaitos.fi",
+            "lastName": "Ope",
+            "firstName": "Sanna"
+          },
+          {
+            "email": "sallaope@oppilaitos.fi",
+            "lastName": "Opettaja",
+            "firstName": "Salla"
+          },
+          {
+            "email": "olliope@oppilaitos.fi",
+            "lastName": "Opettaja",
+            "firstName": "Olli"
+          }
+        ]
+      }
+    },
+    "machine": {
+      "name": "Kone 3",
+      "otherIdentifier": null,
+      "ipAddress": "",
+      "room": {
+        "name": "Pääkirjasto JY",
+        "roomCode": "B44412"
+      }
+    },
+    "user": {
+      "email": "saulistudent@oppilaitos.fi",
+      "userIdentifier": null,
+      "lastName": "Student",
+      "firstName": "Sauli"
+    }
+  }
+]
